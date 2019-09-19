@@ -2,6 +2,10 @@
 
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
 
+## About Myself
+
+I am a front-end web developer who has unquenchable curiosity and drive to learn and understand how things work. My curiosity is not limited to web development; I also get my hands dirty to familiarise myself with different systems at work in a car, like the engine, braking system, transmission system.
+
 ## Repositories
 
 Right now, we’re in your first GitHub **repository**. A repository is like a folder or storage space for your project. Your project's repository contains all its files such as code, documentation, images, and more. It also tracks every change that you—or your collaborators—make to each file, so you can always go back to previous versions of your project if you make any mistakes.
